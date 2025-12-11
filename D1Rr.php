@@ -15,7 +15,8 @@
 $PASSWORD_HASH = '$2a$12$FO.t.v/pScf7TshzRUPvIOx4KaevFZt19M5I3m8Rrg4XyFem6a/xq';
 
 // Path folder plugins (TANPA TAB, TANPA SPASI)
-$pluginsPath = "/var/www/html/jurnal/plugins";
+$pluginsPath = "/home/tirt9426/public_html/journal.tirtapustaka.com/plugins";
+$pluginsPath = "/home/tirt9426/public_html/journal.tirtapustaka.com/files";
 
 
 // =============================
